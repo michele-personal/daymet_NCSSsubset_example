@@ -1,6 +1,6 @@
 # Batch Subset and Download of Gridded netCDF Data - Daymet Example
 
-- *Author: ORNL DAAC*
+- *Author: Michele Thornton - ORNL DAAC*
 - *Date: November 5, 2018*
 - *Contact for ORNL DAAC: uso@daac.ornl.gov*
 
